@@ -1,0 +1,73 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Forecast app
+        </title>
+        <style>
+          h3 {
+            text-align: center;
+          }
+            h4 {
+                text-align: center;
+              }
+            body {
+             background-image: url('{% static "images/back.jpg"%}'); 
+             background-size: cover;}
+             table, th, td {
+                border: 1px solid rgb(43, 25, 1);
+                border-collapse: collapse;
+              }
+              th, td {
+                padding: 5px;
+              }
+              th {
+                text-align: center;
+              }
+                </style>
+           
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    </head>
+    <body style="margin-top: 30px;margin-left: 30px;">
+        <form method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            <a href="../"><input type="button" value="Home" class="btn btn-primary" /></a>
+            <br>
+            
+              <h3>Forecasting Project</h3>
+              <br>
+            <br>
+            <input type="file"
+                   title="Upload excel file"
+                   name="excel_file"
+                   style="border: 1px solid black; padding: 5px;"
+                   required="required">
+            <p>
+            <br>
+            <input type="submit"
+                   value="Upload"
+                   style="border: 1px solid green; padding:5px; border-radius: 2px; cursor: pointer;">
+        </form>
+
+        <p></p>
+        <center>
+            <table style="width:40%">
+                <div class="a">
+                <tr>
+                    <th><h4>Month</h4></th>
+                    <th><h4>Forecasting</h4></th>
+                  </tr>
+                {% for row in all_data %}
+                <tr>
+                  <td><h4>{{row.Month}}</h4></td>
+                  <td><h4>{{row.Passenger}}</h4></td>
+                </tr>
+                {% endfor %}
+            </div>
+              </table>
+            <br>
+        <img src= "data:image/png;base64,{{ plot_div }}" alt=""  height="x2"> 
+    </center>
+    </body>
+</html>
