@@ -16,5 +16,8 @@
 <br>
 <h3>When we upload the data in a excel format to facilitate the use for everyone, we wait a few minutes for the models to train.<br> We finally obtain the results as follow:</h3>
 <img src= "https://github.com/ghaliBenji98/Web-app-for-forecasting-using-Django-and-LSTM-layers/blob/master/image2.PNG" alt=""  height="x2">
+<br>
+<br>
+<h3>Wish you a great time! :)</h3>
 
 
