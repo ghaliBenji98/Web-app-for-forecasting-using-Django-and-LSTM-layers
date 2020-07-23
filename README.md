@@ -4,6 +4,7 @@
 <br>
 <img src= "https://github.com/ghaliBenji98/Web-app-for-forecasting-using-Django-and-LSTM-layers/blob/master/image.png" alt=""  height="x2">
 <h3>We used Django for web development.</h3>
-
-
+<br>
+<h3>After preparing our site we run our webapp to finally obtain as follow:</h3>
+<img src= "https://github.com/ghaliBenji98/Web-app-for-forecasting-using-Django-and-LSTM-layers/blob/master/image1.PNG" alt=""  height="x2">
 
