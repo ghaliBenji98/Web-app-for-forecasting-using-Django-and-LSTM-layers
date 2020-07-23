@@ -1,12 +1,10 @@
 
 <h2>Web-app-for-forecasting-using-Django-and-LSTM-layers</h2>
 <br>
+<h3>The Long Short-Term Memory recurrent neural network has the promise of learning long sequences of observations.</h3>
+<h3>So, it seems a perfect match for time series forecasting. Let's try it out!!!<br></h3>
 <br>
-<h3>The Long Short-Term Memory recurrent neural network has the promise of learning long sequences of observations.<br></h3>
-<h3>It seems a perfect match for time series forecasting.<br></h3>
-<h3>The Long Short-Term Memory recurrent neural network has the promise of learning long sequences of observations.<br></h3>
-<br>
-<h3>We used Django for web development.</h3>
+<h3>By the way, we used Django for web development :)</h3>
 <img src= "https://github.com/ghaliBenji98/Web-app-for-forecasting-using-Django-and-LSTM-layers/blob/master/django.unicorn.jpg" alt=""  height="x2">
 <br>
 <h3>We have worked with the <a href="https://github.com/ghaliBenji98/Web-app-for-forecasting-using-Django-and-LSTM-layers/blob/master/AirPassenger.xlsx">AirPassenger</a>Data.</h3>
