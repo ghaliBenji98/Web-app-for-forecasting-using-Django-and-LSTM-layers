@@ -11,10 +11,10 @@
 <br>
 <br>
 <h3>After finishing the requirements and writing what needs to be done, we run our webapp to finally obtain as follow:</h3>
-<img src= "https://github.com/ghaliBenji98/web_app_forecast/blob/master/image1.PNG" alt=""  height="x2">
+<img src= "https://github.com/ghaliBenji98/web_app_forecast/blob/master/image1.png" alt=""  height="x2">
 <br>
 <h3>When we upload the data in a excel format to facilitate the use for everyone, we wait a few minutes for the models to train.<br> We finally obtain the results as follow:</h3>
-<img src= "https://github.com/ghaliBenji98/web_app_forecast/blob/master/image2.PNG" alt=""  height="x2">
+<img src= "https://github.com/ghaliBenji98/web_app_forecast/blob/master/image2.png" alt=""  height="x2">
 <br>
 <br>
 <h3>Wish you a great time! ;)</h3>
