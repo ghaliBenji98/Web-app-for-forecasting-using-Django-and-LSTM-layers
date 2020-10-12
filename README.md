@@ -6,13 +6,7 @@
 <h3>By the way, we used Django for web development :)</h3>
 <img src= "https://github.com/ghaliBenji98/web_app_forecast/blob/master/django.unicorn.jpg" alt="" height="x2">
 <br>
-<img src="../doc/1_LOANING_44946.jpg" />
-<img
-src="doc/1_LOANING_44946.jpg"
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+
 <h3>We have worked with the <a href="https://github.com/ghaliBenji98/web_app_forecast/blob/master/AirPassenger.xlsx">AirPassenger</a> Data.</h3>
 <img src= "https://github.com/ghaliBenji98/web_app_forecast/blob/master/image.png" alt=""  height="x2">
 <br>
