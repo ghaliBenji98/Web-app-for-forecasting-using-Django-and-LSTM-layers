@@ -7,6 +7,7 @@
 <img src= "https://github.com/ghaliBenji98/web_app_forecast/blob/master/django.unicorn.jpg" alt="" height="x2">
 <br>
 <img src="../doc/1_LOANING_44946.jpg" />
+![](doc/1_LOANING_44946.jpg)
 <h3>We have worked with the <a href="https://github.com/ghaliBenji98/web_app_forecast/blob/master/AirPassenger.xlsx">AirPassenger</a> Data.</h3>
 <img src= "https://github.com/ghaliBenji98/web_app_forecast/blob/master/image.png" alt=""  height="x2">
 <br>
