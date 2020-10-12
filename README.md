@@ -17,6 +17,6 @@
 <img src= "https://github.com/ghaliBenji98/web_app_forecast/blob/master/image2.PNG" alt=""  height="x2">
 <br>
 <br>
-<h3>Wish you a great time! :)</h3>
+<h3>Wish you a great time! ;)</h3>
 
 
