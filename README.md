@@ -5,9 +5,9 @@
 <h3>So, it seems a perfect match for time series forecasting. Let's try it out!!!<br></h3>
 <h3>By the way, we used Django for web development :)</h3>
 <img src= "https://github.com/ghaliBenji98/web_app_forecast/blob/master/django.unicorn.jpg" alt="" height="x2">
-
-<img src= "https://github.com/ghaliBenji98/web_app_forecast/tree/master/doc" alt="" height="x2">
 <br>
+<img src= "https://github.com/ghaliBenji98/web_app_forecast/blob/master/doc/1_LOANING_44946.jpg" alt="" height="x2">
+
 <h3>We have worked with the <a href="https://github.com/ghaliBenji98/web_app_forecast/blob/master/AirPassenger.xlsx">AirPassenger</a> Data.</h3>
 <img src= "https://github.com/ghaliBenji98/web_app_forecast/blob/master/image.png" alt=""  height="x2">
 <br>
