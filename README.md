@@ -1,5 +1,5 @@
 
-<h2>Web_app_forecasting.github.io</h2>
+<h2>ghaliBenji98.github.io</h2>
 <br>
 <h3>The Long Short-Term Memory recurrent neural network has the promise of learning long sequences of observations.</h3>
 <h3>So, it seems a perfect match for time series forecasting. Let's try it out!!!<br></h3>
